@@ -16,6 +16,6 @@
 
 ### Proyecto destacado:
 
-[*] [PropTech](https://github.com/HenryAzz/proyectonuevo) Proyecto Final Henry
-[*] [Videogame](https://github.com/tgzz14/videogamesPI) Proyecto Individual Henry
-[+] [Rick&Morty](https://github.com/tgzz14/Rick_and_morty) Proyecto Integrador Bootcamp Henry+
+[x] [PropTech](https://github.com/HenryAzz/proyectonuevo) Proyecto Final Henry
+[x] [Videogame](https://github.com/tgzz14/videogamesPI) Proyecto Individual Henry
+[x] [Rick&Morty](https://github.com/tgzz14/Rick_and_morty) Proyecto Integrador Bootcamp Henry+
