@@ -22,4 +22,4 @@
 #
 ### 📬 Contactame:
 - ✉️ ztg1404@gmail.com
-- tr📌 https://www.linkedin.com/in/zulimar-tovar-garcía-3a223513a/
+- 📌 https://www.linkedin.com/in/zulimartovar/
