@@ -20,9 +20,6 @@
 - [x] [Videogame](https://github.com/tgzz14/videogamesPI) Proyecto Individual Henry
 - [x] [Rick&Morty](https://github.com/tgzz14/Rick_and_morty) Proyecto Integrador Bootcamp Henry
 #
-### 📬 Contactame a traves:
-✉️ ztg1404@gmail.com
-📌 https://www.linkedin.com/in/zulimar-tovar-garcía-3a223513a/
-
-
-
+### 📬 Contactame:
+- ✉️ ztg1404@gmail.com
+- tr📌 https://www.linkedin.com/in/zulimar-tovar-garcía-3a223513a/
